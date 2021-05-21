@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="zh">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title>湖北省特种作业人员考核管理系统</title>
+		<style type="text/css">
+			.container {
+				padding-right: 15px;
+				padding-left: 15px;
+				margin-right: auto;
+				margin-left: auto;
+			}
 
-You can use the [editor on GitHub](https://github.com/king9797all/yuzhihui/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+			html {
+				min-height: 100%;
+				position: relative;
+			}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/king9797all/yuzhihui/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+			body {
+				background-color: #e4e6e9;
+				min-height: 100%;
+				padding-bottom: 0;
+				color: #393939;
+				line-height: 1.5;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<h2>证书信息</h2>
+			<br>
+			<img src="./img/1621485209.jpg" width="100px" height="120px">
+			<br>
+			<p>姓名：余恒</p>
+			<p>性别：男</p>
+			<p>出生年月：1994-09-25</p>
+			<p>身份证号：420984199409255312</p>
+			<p>工种：建筑起重信号司索工</p>
+			<p>证书编号：鄂L033019001141</p>
+			<p>初次取证日期：2020-3-21</p>
+			<p>证书有效期：2020-3-21 至 2022-3-21</p>
+		</div>
+	</body>
+</html>
